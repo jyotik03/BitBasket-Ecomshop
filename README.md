@@ -1,7 +1,7 @@
 <!-- About this project -->
 
 # **🚀Web3.0 E-commerce Shop 🛒🏪🏬🛍️**
-This is an e-commerce shop build completely with **Blockchain** technology. It's build on Ethereum Blockchain. Here you can register your products for sale, also buy some listed products from store. You have to confirm the purchases in order to complete the transaction.
+This project is a groundbreaking e-commerce shop fully integrated with blockchain technology, specifically built on the Ethereum Blockchain. It allows users to register products for sale and purchase listed products from the store, ensuring transaction completion through purchase confirmations.
 
 
 <p align="center">
@@ -30,9 +30,9 @@ This is an e-commerce shop build completely with **Blockchain** technology. It's
 <hr>
 <hr>
 
-### **Entry Page 🙏**
+### **Entry Page **
 
- This is the 1st page of this Dapp, where you can choose wheather you wanna do business with us or go for shopping.
+ This is the initial page of the Dapp, where users can choose to either conduct business by listing products or go shopping.
 
  <p align="center">
   <img alt="image1" src="./readme/two.png" width="100%" />
@@ -40,37 +40,37 @@ This is an e-commerce shop build completely with **Blockchain** technology. It's
 
 ### **Marketplace Page 🛒**
 
-This is the main Marketplace of our dapp. Here you can see all the listed products. You can see here your listed products too. From here you can buy the products you need by clicking them.
+This is the central hub of the Dapp where all products are listed. Users can view both their products and others' products, and make purchases by clicking on the items they need.
 
 ### **Product Description Page 🧾**
 
-When you click individual products on Marketpalce, it leades you to product description page. 
+Clicking on a product in the marketplace takes users to its description page.  
 
  <p align="center">
   <img alt="image1" src="./readme/three.gif" width="100%" />
  </p>
 
- From here you can buy each products by clicking **Buy** button. If you are the one who listed the product, then it shows **You are the owner of the product**.
+ Here, they can see detailed information about the product and make a purchase by clicking the **Buy** button. If the user is the product owner, it indicates ownership status.
 
  ### **Buy Page 💸💰💳**
 
- For buying a product, you first go to description page. There if you click **BUY** button, it takes you buy page.
+ To purchase a product, users navigate from the description page by clicking the **Buy** button. 
 
  <p align="center">
   <img alt="image1" src="./readme/buy.png" width="100%" />
  </p>
 
- Here you have to select how many products you want to buy and the delevery address. The total costs are showing in bellow of the item image. Hit **BUY** for buy the product.
+ On the buy page, they specify the quantity and delivery address. The total cost is displayed below the product image, and the user can complete the purchase by clicking the **Buy** button.
 
  ### **Items Collection Page 🛍️**
 
- All the products you have owned till now are shown here. you can go there by clicking **My Products** option in nav bar inside Marketplace.
+ This page displays all products owned by the user. Users can access this page by clicking the **My Products** option in the marketplace's navigation bar.
 
  <p align="center">
   <img alt="image1" src="./readme/four.png" width="100%" />
  </p>
 
- If the product delivered to you, you can click **DELIVERED** button to claim the ownership of the product.
+ After receiving a product, users can click the **Delivered** button to confirm ownership.
 
  ## Business
 
@@ -79,17 +79,16 @@ When you click individual products on Marketpalce, it leades you to product desc
 
  ### **List Product Page 📜**
 
- Here you can list your products with just **0.01** ether listing prize.
 
  <p align="center">
   <img alt="image1" src="./readme/list.gif" width="100%" />
  </p>
 
- First you have to select a picture for you product, then give it a title & description. After you have to write the number of stock & finally write the price and click **List Product** . It can list your product into Marketplace.
+ You need to upload a product image, provide a title and description, specify the stock quantity, set the price, and click the **List Product** button to add the product to the marketplace.
 
  ### **Listed Product Page 🛒**
 
- If you click to the **My Products** button on the nav bar, you can go to the Listed Product page. Here you can see all of your listed products. If you click on them, it takes you another page, where you can see an Image and a button **My Customers**. If you don't have any customers, it shows you nothing, but if you do have any customers, then it gives the metamask address of that customer and a button **SHOW ME ADDRESS**, after clicking it a window should pop-up by saying the delivery address of the customer.
+ By clicking the **My Products** button in the navigation bar, users are taken to the Listed Product page. Here, they can view all their listed products. Clicking on a product shows an image and a **My Customers** button. If there are no customers, nothing is displayed. If customers exist, their Metamask addresses are shown along with a **SHOW ME ADDRESS** button. Clicking this button reveals a pop-up window with the customer's delivery address.
 
  <p align="center">
   <img alt="image1" src="./readme/listProduct.gif" width="100%" />
